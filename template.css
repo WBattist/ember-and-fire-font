@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Ember Fire';
+  src:
+    url('https://wbattist.github.io/ember-and-fire-font/fonts/ember-fire.woff2')
+      format('woff2'),
+    url('https://wbattist.github.io/ember-and-fire-font/fonts/ember-fire.otf')
+      format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
