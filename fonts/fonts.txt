@@ -1,0 +1,2 @@
+ember-fire.woff2
+ember-fire.otf
